@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Virus/static/css/main.1dc1c472.css",
-    "main.js": "/Virus/static/js/main.f50c5401.js",
+    "main.css": "/Virus/static/css/main.dbd1c10b.css",
+    "main.js": "/Virus/static/js/main.04a734b4.js",
     "static/js/787.14f3fbcd.chunk.js": "/Virus/static/js/787.14f3fbcd.chunk.js",
     "static/media/song.mp3": "/Virus/static/media/song.d6fc10725e65272ce512.mp3",
     "static/media/foto.jpg": "/Virus/static/media/foto.54a0ad910446ef403dbc.jpg",
@@ -17,12 +17,12 @@
     "static/media/sound.png": "/Virus/static/media/sound.1dfe701d84efaf8b1b29.png",
     "static/media/Home.png": "/Virus/static/media/Home.2c674f1f2717de1dc500.png",
     "index.html": "/Virus/index.html",
-    "main.1dc1c472.css.map": "/Virus/static/css/main.1dc1c472.css.map",
-    "main.f50c5401.js.map": "/Virus/static/js/main.f50c5401.js.map",
+    "main.dbd1c10b.css.map": "/Virus/static/css/main.dbd1c10b.css.map",
+    "main.04a734b4.js.map": "/Virus/static/js/main.04a734b4.js.map",
     "787.14f3fbcd.chunk.js.map": "/Virus/static/js/787.14f3fbcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc1c472.css",
-    "static/js/main.f50c5401.js"
+    "static/css/main.dbd1c10b.css",
+    "static/js/main.04a734b4.js"
   ]
 }
