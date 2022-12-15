@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Virus/static/css/main.e56a170b.css",
+    "main.css": "/Virus/static/css/main.d2ddd5f0.css",
     "main.js": "/Virus/static/js/main.d5c4ccc1.js",
     "static/js/787.14f3fbcd.chunk.js": "/Virus/static/js/787.14f3fbcd.chunk.js",
     "static/media/song.mp3": "/Virus/static/media/song.d6fc10725e65272ce512.mp3",
@@ -17,12 +17,12 @@
     "static/media/sound.png": "/Virus/static/media/sound.1dfe701d84efaf8b1b29.png",
     "static/media/Home.png": "/Virus/static/media/Home.2c674f1f2717de1dc500.png",
     "index.html": "/Virus/index.html",
-    "main.e56a170b.css.map": "/Virus/static/css/main.e56a170b.css.map",
+    "main.d2ddd5f0.css.map": "/Virus/static/css/main.d2ddd5f0.css.map",
     "main.d5c4ccc1.js.map": "/Virus/static/js/main.d5c4ccc1.js.map",
     "787.14f3fbcd.chunk.js.map": "/Virus/static/js/787.14f3fbcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e56a170b.css",
+    "static/css/main.d2ddd5f0.css",
     "static/js/main.d5c4ccc1.js"
   ]
 }
