@@ -1,0 +1,171 @@
+.MenuContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.MenuContainer h1{
+    font-size: 26px;
+    color: white;
+
+}
+
+.ContainerList {
+   background: #732b6f;
+    width: 140vh;
+    border-radius: 25px;
+    height: 60vh;
+    padding-bottom: 10px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid white;
+}
+
+.ContainerList button {
+    background: #eb5dcf;
+    color: white;
+    font-size: 24px;
+    margin-top: 10px;
+    padding: 8px 30px 8px 30px;
+    width: 350px;
+    border: none;
+    border-radius: 25px;
+}
+
+.ContainerTools {
+    width: 80vh;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.UI {
+    display: flex;
+    margin-bottom: 35%;
+    justify-content: center;
+}
+
+.Arrow {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.Arrow img {
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 15vh;
+}
+
+.ContainerTools img {
+    height: 20vh;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.ContainerMateri {
+    background: #732b6f;
+    width: 180vh;
+    border-radius: 25px;
+    margin-top:10px;
+    padding-bottom: 15px;
+    padding: 5px;
+    height: 45vh;
+    color:white;
+    border: 3px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.ContainerMateri button {
+    background: #eb5dcf;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    font-size: 24px;
+    margin-top: 10px;
+    padding: 2px 30px 2px 30px;
+    width: 350px;
+}
+
+.ContainerList img {
+    width: 10vh;
+}
+
+.virusR {
+    width: 80vh;
+    position: absolute;
+    right: 0;
+}
+.virusL {
+    width: 80vh;
+    position: absolute;
+    left: 0;
+}
+
+.VideoContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.VideoContainer .ContainerList {
+    margin: auto;
+    margin-top: 25px;
+    padding-top: 10px;
+
+}
+
+.VideoContainer h1{
+    margin-left: 30px;
+    position: absolute;
+    background: #e452ac;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.QuizzResult {
+    background: #732b6f;
+    width: 210vh;
+    border-radius: 25px;
+    height: 70vh;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid white;
+
+}
+
+.QuizzResult h1 {
+    background: #e452ac;
+    padding: 15px;
+    
+    border-radius: 20px;
+}
+
+.QuizzResult p {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.QuizzResult span {
+    background: #e452ac ;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+}

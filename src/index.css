@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Libre Baskerville', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+button {
+  background: transparent;
+  border: none;
+  font-family: 'Libre Baskerville', serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
