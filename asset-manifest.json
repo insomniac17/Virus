@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/Virus/static/css/main.93e2343d.css",
-    "main.js": "/Virus/static/js/main.bc5485a8.js",
+    "main.css": "/Virus/static/css/main.b28e46c6.css",
+    "main.js": "/Virus/static/js/main.d1376385.js",
     "static/js/787.14f3fbcd.chunk.js": "/Virus/static/js/787.14f3fbcd.chunk.js",
     "static/media/song.mp3": "/Virus/static/media/song.d6fc10725e65272ce512.mp3",
     "static/media/foto.jpg": "/Virus/static/media/foto.54a0ad910446ef403dbc.jpg",
     "static/media/GambarPeng.PNG": "/Virus/static/media/GambarPeng.a75c3365a1d3c6c881f3.PNG",
+    "static/media/virusjudul.png": "/Virus/static/media/virusjudul.943f39a667121da05021.png",
     "static/media/GambarVirus.svg": "/Virus/static/media/GambarVirus.31ea4042a56e171086fa3b6b2c858d26.svg",
     "static/media/background.jpg": "/Virus/static/media/background.c0910e91937710b3ddf7.jpg",
+    "static/media/virusjudul1.png": "/Virus/static/media/virusjudul1.a4c899a74a3ec4817325.png",
     "static/media/Judul.png": "/Virus/static/media/Judul.6371bccfa282ccd1c044.png",
     "static/media/jenis2.png": "/Virus/static/media/jenis2.ec8d064fdb3442d531c6.png",
+    "static/media/icon_quiz.png": "/Virus/static/media/icon_quiz.f4bebbe037e84a98c21d.png",
     "static/media/X.png": "/Virus/static/media/X.3990784edb1a5aaa4f8b.png",
+    "static/media/icon_materi.png": "/Virus/static/media/icon_materi.35ee58e666aa3cf52974.png",
     "static/media/arrowLeft.png": "/Virus/static/media/arrowLeft.1b49e7cd7a2080d8a972.png",
     "static/media/arrowRight.png": "/Virus/static/media/arrowRight.209a6557d676bdd72adf.png",
+    "static/media/icon_video.png": "/Virus/static/media/icon_video.d4d4952bf71b30050f7d.png",
     "static/media/struktur.png": "/Virus/static/media/struktur.3fdd1bad2a5976ca9631.png",
     "static/media/ciri2.png": "/Virus/static/media/ciri2.a53f230537d02cab5897.png",
     "static/media/positif.png": "/Virus/static/media/positif.70cb7b3f12dce5d0759f.png",
@@ -23,12 +28,12 @@
     "static/media/sound.png": "/Virus/static/media/sound.1dfe701d84efaf8b1b29.png",
     "static/media/Home.png": "/Virus/static/media/Home.2c674f1f2717de1dc500.png",
     "index.html": "/Virus/index.html",
-    "main.93e2343d.css.map": "/Virus/static/css/main.93e2343d.css.map",
-    "main.bc5485a8.js.map": "/Virus/static/js/main.bc5485a8.js.map",
+    "main.b28e46c6.css.map": "/Virus/static/css/main.b28e46c6.css.map",
+    "main.d1376385.js.map": "/Virus/static/js/main.d1376385.js.map",
     "787.14f3fbcd.chunk.js.map": "/Virus/static/js/787.14f3fbcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93e2343d.css",
-    "static/js/main.bc5485a8.js"
+    "static/css/main.b28e46c6.css",
+    "static/js/main.d1376385.js"
   ]
 }
